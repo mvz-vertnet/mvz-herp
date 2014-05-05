@@ -1,0 +1,557 @@
+Report for Institution Code MVZ, Resource mvz_herp
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 554
+Number of records retrieved in searches: 13440
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: France ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 159
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 335
+	Country: Unknown ; Times: 19
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 14
+	Date: 2014-04-02 ; Times: 23
+	Date: 2014-04-03 ; Times: 5
+	Date: 2014-04-04 ; Times: 25
+	Date: 2014-04-05 ; Times: 7
+	Date: 2014-04-06 ; Times: 3
+	Date: 2014-04-07 ; Times: 11
+	Date: 2014-04-08 ; Times: 2
+	Date: 2014-04-09 ; Times: 30
+	Date: 2014-04-10 ; Times: 20
+	Date: 2014-04-11 ; Times: 5
+	Date: 2014-04-12 ; Times: 6
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-14 ; Times: 8
+	Date: 2014-04-15 ; Times: 31
+	Date: 2014-04-16 ; Times: 60
+	Date: 2014-04-17 ; Times: 23
+	Date: 2014-04-18 ; Times: 10
+	Date: 2014-04-19 ; Times: 9
+	Date: 2014-04-20 ; Times: 56
+	Date: 2014-04-21 ; Times: 47
+	Date: 2014-04-22 ; Times: 64
+	Date: 2014-04-23 ; Times: 16
+	Date: 2014-04-24 ; Times: 9
+	Date: 2014-04-25 ; Times: 9
+	Date: 2014-04-26 ; Times: 12
+	Date: 2014-04-27 ; Times: 18
+	Date: 2014-04-28 ; Times: 9
+	Date: 2014-04-29 ; Times: 13
+	Date: 2014-04-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "heterodon ("New York")" ; Times: 1
+	Query: "Sceloporus pyrocephalus" ; Times: 2
+	Query: "anolis capito" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 4
+	Query: "1265" ; Times: 1
+	Query: "pachymedusa dacnicolor" ; Times: 1
+	Query: "djibouti" ; Times: 2
+	Query: "country:"Syria"" ; Times: 1
+	Query: "Bothrops asper" ; Times: 3
+	Query: "python molurus" ; Times: 2
+	Query: ""Crotalus scutulatus" year >= 1888 year <= 2014" ; Times: 1
+	Query: "Micrurus spixii" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "Crotalus tortugensis" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 6
+	Query: "Cowan" ; Times: 1
+	Query: "institutioncode:mvz 3232" ; Times: 2
+	Query: "Thamnophis scalaris stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus tschudii" ; Times: 1
+	Query: "Cerrophidion barbouri" ; Times: 1
+	Query: "batrachoseps luciae" ; Times: 2
+	Query: "Sceloporus spinosus" ; Times: 8
+	Query: "Pseudoeurycea bellii" ; Times: 4
+	Query: "oPHISaurus harti" ; Times: 1
+	Query: ""agkistrodon piscivorus" mappable:1" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "ameiva bifrontata" ; Times: 3
+	Query: "Crotalus triseriatus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "helotes creek texas" ; Times: 1
+	Query: "kinixys homeana" ; Times: 5
+	Query: "Macroclemys" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.123278350923385,-116.28341674804688))<5202.203163040118" ; Times: 1
+	Query: "Barisia imbricata stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Elgaria panamintina" ; Times: 2
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Bothriopsis taeniata" ; Times: 1
+	Query: "Sceloporus bicanthalis:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "python" ; Times: 2
+	Query: "heterodon stateprovince:"New York"" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "smithsonian" ; Times: 1
+	Query: "chironius monticola" ; Times: 1
+	Query: "Crocodylus" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "type:specimen recordedby:Rausch year >= 1949 year <= 1995" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Kentropyx striata" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 2
+	Query: "Bothrops insularis" ; Times: 2
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Eleutherodactylus antillensis" ; Times: 2
+	Query: "Carphophis tissue:1" ; Times: 2
+	Query: "FLMNH" ; Times: 1
+	Query: "specificepithet:insculpta" ; Times: 1
+	Query: ""ambystoma californiense"" ; Times: 2
+	Query: "Birkhead (Roger OR R.)" ; Times: 2
+	Query: "dinosaur" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 17
+	Query: "zonata" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Birkhead year >= 1973" ; Times: 6
+	Query: "spea hammondii california" ; Times: 1
+	Query: "stateprovince:"new york" genus:heterodon mappable:1" ; Times: 1
+	Query: "plethodon petraeus" ; Times: 5
+	Query: "Anolis nebulosus" ; Times: 3
+	Query: "genus:ctenotus" ; Times: 2
+	Query: "distance(location,geopoint(35.460669951495305,-90.87890625))<100000" ; Times: 1
+	Query: "plectrohyla matudai" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<3240" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "bullfrog" ; Times: 2
+	Query: "Micrurus lemniscatus" ; Times: 2
+	Query: "bovine" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 8
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "3270" ; Times: 1
+	Query: "bothriechis schlegelii" ; Times: 4
+	Query: "catalognumber:168598 institutioncode:MVZ" ; Times: 1
+	Query: "Bothriechis lateralis" ; Times: 1
+	Query: "Auburn" ; Times: 1
+	Query: "San Luis Obispo "Taricha torosa"" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "McTaggart Cowan" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "catalognumber:196641" ; Times: 1
+	Query: "catalognumber:99406 institutioncode:mvz mappable:1" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:horridus mappable:1" ; Times: 1
+	Query: "genus:crocodylus" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "genus:geochelone" ; Times: 1
+	Query: "kirtlandii" ; Times: 1
+	Query: "Virgin Islands" ; Times: 2
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "Geagras" ; Times: 1
+	Query: "class:amphibia institutioncode:mvz rank:12" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Micrurus margaritiferus" ; Times: 1
+	Query: "lycodon" ; Times: 2
+	Query: "echis carinatus" ; Times: 1
+	Query: ""agkistrodon piscivorus"" ; Times: 1
+	Query: "Eleutherodactylus AND antillensis" ; Times: 1
+	Query: "Trachylepis" ; Times: 1
+	Query: "Thamnophis sirtalis county:"San Mateo" stateprovince:"California"" ; Times: 7
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.3751788753353,-119.0643310546875))<1286" ; Times: 1
+	Query: "dipodomys institutioncode:MVZ" ; Times: 1
+	Query: "R. D. Birkhead" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "Bothriechis thalassinus" ; Times: 1
+	Query: "recordedby:lacey" ; Times: 3
+	Query: "mappable:1 distance(location,geopoint(34.37872085343753,-119.14535522460938))<2421" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Bothriechis nigroviridis" ; Times: 1
+	Query: "Anolis nebuloides" ; Times: 2
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Melanophryniscus" ; Times: 1
+	Query: "lacerta media" ; Times: 1
+	Query: "blackburn" ; Times: 1
+	Query: "Lachesis melanocephala" ; Times: 1
+	Query: "Aparallactus modestus" ; Times: 1
+	Query: "Micrurus latifasciatus" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "stateprovince:"new york" genus:heterodon" ; Times: 1
+	Query: "Bothriechis bicolor" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 4
+	Query: "natrix" ; Times: 1
+	Query: "polychrus gutturosus country:"Costa Rica"" ; Times: 2
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "azemiops" ; Times: 1
+	Query: "coluber ravergieri" ; Times: 1
+	Query: "hynobius" ; Times: 2
+	Query: "Pseudoeurycea" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "butte county spea hammondii" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.1109218097047,-116.290283203125))<6694" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Shoshone Inyo" ; Times: 1
+	Query: "genus:macroclemys" ; Times: 2
+	Query: "Gopherus agassizii mappable:1" ; Times: 2
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 15
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "catalognumber:265248 tissue:1" ; Times: 1
+	Query: "polemon" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: ""3232" sex:male" ; Times: 3
+	Query: "catalognumber:265245 tissue:1" ; Times: 1
+	Query: "skiltonianus (plestiodon OR eumeces) tissue:1" ; Times: 1
+	Query: "Hynobius year >= 1990 year <= 2014" ; Times: 1
+	Query: "Malaclemys terrapin terrapin" ; Times: 3
+	Query: "Lachesis muta" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "batrachoseps gavilanensis" ; Times: 2
+	Query: "dendrobates truncatus" ; Times: 1
+	Query: "anolis onca" ; Times: 2
+	Query: "taricha institutioncode:MVZ (cleared and stained)" ; Times: 1
+	Query: "Sceloporus grammicus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "distance(location,geopoint(35.91129848822746,-116.246337890625))<8873" ; Times: 1
+	Query: "Ophisaurus tissue:1" ; Times: 4
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "epicrates" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 6
+	Query: "mus sp" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "gecko gecko" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "sylvilagus bachmani" ; Times: 1
+	Query: "tehama county spea hammondii" ; Times: 3
+	Query: "genus:Ctenotus" ; Times: 1
+	Query: "Birkhead" ; Times: 2
+	Query: "Fejervarya" ; Times: 1
+	Query: "country:"china" class:reptilia" ; Times: 1
+	Query: "Kinixys homeana" ; Times: 1
+	Query: "male : 3232" ; Times: 1
+	Query: "trachylepis" ; Times: 3
+	Query: "plestiodon longirostris" ; Times: 2
+	Query: ""male" (3232)" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "plestiodon tissue:1" ; Times: 1
+	Query: "country:"china" class:Reptilia year <= 2014 mappable:1" ; Times: 1
+	Query: "Sceloporus horridus" ; Times: 5
+	Query: "institutioncode:mvz catalognumber:3232" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Anolis antonii" ; Times: 2
+	Query: "Sceloporus torquatus" ; Times: 11
+	Query: "Herp net" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "Sceloporus ochoterenae" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.3751788753353,-119.0643310546875))<8509" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus mappable:1" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "country:"china" class:reptilia year <= 2014 mappable:1" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "specificepithet:pardalis genus:geochelone" ; Times: 1
+	Query: "tarsius" ; Times: 2
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "catalognumber:265312 tissue:1" ; Times: 1
+	Query: "lizard" ; Times: 1
+	Query: "Hyla cinerea tissue:1" ; Times: 1
+	Query: "sex:male 3232" ; Times: 1
+	Query: "country:"china" class:reptilia year >= 1980 year <= 2014 mappable:1 distance(location,geopoint(25.32416652573835,115.048828125))<514052" ; Times: 2
+	Query: "stateprovince:"fujian" country:"china" class:reptilia year <= 2014 mappable:1" ; Times: 1
+	Query: "Valladares" ; Times: 2
+	Query: "pickle" ; Times: 1
+	Query: "bipes biporus" ; Times: 4
+	Query: "urosaurus ornatus tissue:1" ; Times: 1
+	Query: "Hyla eximia" ; Times: 7
+	Query: ""male" "3232"" ; Times: 2
+	Query: "plestiodon lagunensis" ; Times: 1
+	Query: ""3232" AND "male"" ; Times: 1
+	Query: "heterodon "New York"" ; Times: 2
+	Query: "storeria storerioides" ; Times: 1
+	Query: "Micrurus clarki" ; Times: 1
+	Query: "draco mvz" ; Times: 1
+	Query: "country:"china" class:reptilia mappable:1" ; Times: 1
+	Query: "ant" ; Times: 2
+	Query: "Aspidoscelis communis" ; Times: 6
+	Query: "Sceloporus aeneus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Bothriechis guifarroi" ; Times: 3
+	Query: "country:"china" class:reptilia mappable:1 distance(location,geopoint(26.627818226393046,111.884765625))<430089" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "carettochelys" ; Times: 1
+	Query: "Phyllobates vittatus mvz" ; Times: 1
+	Query: "atropoides mexicanus" ; Times: 1
+	Query: "Cynisca leucura" ; Times: 2
+	Query: "crocodylus" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "naja" ; Times: 2
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Bothrops diporus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.1053045805633,-116.11038208007812))<5202" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "country:"china" class:reptilia mappable:1 distance(location,geopoint(25.32416652573835,115.048828125))<430088.82653801225" ; Times: 1
+	Query: ""crotalus adamanteus" mappable:1" ; Times: 1
+	Query: "Micrurus pyrrhocryptus" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Aspidoscelis costata" ; Times: 5
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 8
+	Query: "David C. Blackburn" ; Times: 1
+	Query: "recordedby:Lacey" ; Times: 2
+	Query: "podarcis muralis" ; Times: 1
+	Query: "catfish" ; Times: 1
+	Query: "eryx" ; Times: 2
+	Query: "eryx miliaris" ; Times: 1
+	Query: "type:specimen (Bailey) year >= 1945 year <= 1959" ; Times: 2
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "stateprovince:"jiangxi" country:"china" class:reptilia year <= 2013 mappable:1" ; Times: 3
+	Query: "Lachesis stenophrys" ; Times: 1
+	Query: "Golden Eagle" ; Times: 1
+	Query: "Macroclemys and NOT genus:Macrochelys" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "13628 mvz" ; Times: 1
+	Query: "stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 4
+	Query: "desert tortoise" ; Times: 2
+	Query: "Batrachoseps campi" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: ""hyla gratiosa"" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 3
+	Query: "france" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 2
+	Query: "Amastridium" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "dragon type:specimen" ; Times: 4
+	Query: "axis axis" ; Times: 1
+	Query: "type:specimen county:Kittitas stateprovince:washington mappable:1" ; Times: 1
+	Query: "psammophis" ; Times: 1
+	Query: "parviceps" ; Times: 1
+	Query: "country:"china" class:reptilia mappable:1 distance(location,geopoint(25.32416652573835,115.048828125))<514052" ; Times: 5
+	Query: "Cerrophidion tzotzilorum" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 4
+	Query: "Micrurus browni" ; Times: 2
+	Query: "Sceloporus grammicus" ; Times: 12
+	Query: "male : 3232 sex" ; Times: 1
+	Query: "polychrus gutturosus panama" ; Times: 1
+	Query: "Plestiodon brevirostris" ; Times: 3
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "varanidae" ; Times: 1
+	Query: "Isla del Toro" ; Times: 1
+	Query: "atropoides indomitus" ; Times: 3
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "schistometopum" ; Times: 2
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "anolis auratus" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 7
+	Query: "institutioncode:mvz recordnumber:3232" ; Times: 1
+	Query: "(owl)" ; Times: 2
+	Query: "Shoshone" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 134 (out of 433 download events in this period)
+Total number of records downloaded: 28440 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 20931
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Guatemala ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 108
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 3
+	Date: 2014-04-02 ; Times: 9
+	Date: 2014-04-04 ; Times: 3
+	Date: 2014-04-05 ; Times: 2
+	Date: 2014-04-07 ; Times: 1
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 3
+	Date: 2014-04-15 ; Times: 3
+	Date: 2014-04-16 ; Times: 52
+	Date: 2014-04-17 ; Times: 6
+	Date: 2014-04-18 ; Times: 6
+	Date: 2014-04-20 ; Times: 3
+	Date: 2014-04-21 ; Times: 8
+	Date: 2014-04-22 ; Times: 19
+	Date: 2014-04-23 ; Times: 4
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-27 ; Times: 2
+	Date: 2014-04-28 ; Times: 2
+	Date: 2014-04-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "batrachoseps luciae" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Bothriechis guifarroi" ; Times: 2
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "Crotalus tortugensis" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 2
+	Query: "specificepithet:regilla genus:Pseudacris" ; Times: 2
+	Query: "Thamnophis scalaris stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus tschudii" ; Times: 1
+	Query: "Cerrophidion barbouri" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 2
+	Query: ""agkistrodon piscivorus" mappable:1" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Crotalus triseriatus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Valladares" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Elgaria panamintina" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Bothriopsis taeniata" ; Times: 1
+	Query: ""crotalus adamanteus" mappable:1" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 1
+	Query: "Bothrops insularis" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "psammophis" ; Times: 1
+	Query: "Gopherus agassizii mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Bothriechis lateralis" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "Barisia imbricata stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus margaritiferus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "country:"china" class:reptilia" ; Times: 1
+	Query: "Bothriechis thalassinus" ; Times: 1
+	Query: "Bothriechis nigroviridis" ; Times: 1
+	Query: "genus:Ctenotus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Lachesis melanocephala" ; Times: 1
+	Query: "Micrurus latifasciatus" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "Bothriechis bicolor" ; Times: 1
+	Query: "Eleutherodactylus AND antillensis type:specimen (Eleutherodactylus AND antillensis) year >= 1999 year <= 2014 mappable:1" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "plectrohyla matudai" ; Times: 2
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.1109218097047,-116.290283203125))<12321" ; Times: 1
+	Query: "batrachoseps gavilanensis" ; Times: 1
+	Query: "Sceloporus grammicus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Micrurus corallinus" ; Times: 1
+	Query: "Bothrops diporus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "atropoides mexicanus" ; Times: 1
+	Query: "Eleutherodactylus AND antillensis type:specimen year >= 1999 year <= 2014 mappable:1" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "kinixys homeana" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "specificepithet:pardalis genus:geochelone" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Sceloporus aeneus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Micrurus pyrrhocryptus" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "San Luis Obispo "Taricha torosa"" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Micrurus spixii" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus mappable:1" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Lachesis stenophrys" ; Times: 1
+	Query: "institutioncode:MVZ hastypestatus:1" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Hyperolius mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "male : 3232 recordnumber sex" ; Times: 1
+	Query: "University of Michigan Museum Zoology" ; Times: 1
+	Query: "country:"china" class:reptilia mappable:1 distance(location,geopoint(25.32416652573835,115.048828125))<514052" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Cerrophidion tzotzilorum" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "Chaetodipus" ; Times: 4
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "atropoides indomitus" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 554
+Total number of records retrieved from searches: 13440
+Number of download events that retrieved data from the resource: 201
+Total number of records downloaded: 86057
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 554
+Total number of records retrieved from searches: 13440
+Number of download events that retrieved data from the resource: 309
+Total number of records downloaded: 245065
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
