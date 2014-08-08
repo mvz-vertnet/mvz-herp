@@ -1,0 +1,451 @@
+Report for Institution Code MVZ, Resource mvz_herp
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 512
+Number of records retrieved in searches: 15349
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 16
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 18
+	Country: Costa Rica ; Times: 20
+	Country: France ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Israel ; Times: 29
+	Country: Mexico ; Times: 20
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Romania ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Thailand ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 344
+	Country: Unknown ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 34
+	Date: 2014-07-02 ; Times: 63
+	Date: 2014-07-03 ; Times: 10
+	Date: 2014-07-04 ; Times: 3
+	Date: 2014-07-05 ; Times: 1
+	Date: 2014-07-06 ; Times: 37
+	Date: 2014-07-07 ; Times: 15
+	Date: 2014-07-08 ; Times: 18
+	Date: 2014-07-09 ; Times: 14
+	Date: 2014-07-10 ; Times: 8
+	Date: 2014-07-11 ; Times: 91
+	Date: 2014-07-12 ; Times: 6
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 19
+	Date: 2014-07-15 ; Times: 26
+	Date: 2014-07-16 ; Times: 14
+	Date: 2014-07-19 ; Times: 10
+	Date: 2014-07-20 ; Times: 6
+	Date: 2014-07-21 ; Times: 10
+	Date: 2014-07-22 ; Times: 5
+	Date: 2014-07-23 ; Times: 13
+	Date: 2014-07-24 ; Times: 11
+	Date: 2014-07-25 ; Times: 9
+	Date: 2014-07-26 ; Times: 1
+	Date: 2014-07-27 ; Times: 1
+	Date: 2014-07-28 ; Times: 26
+	Date: 2014-07-29 ; Times: 18
+	Date: 2014-07-30 ; Times: 14
+	Date: 2014-07-31 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "catalognumber:180528 mappable:1" ; Times: 2
+	Query: "Pseudotriton ruber New York" ; Times: 2
+	Query: "heloderma" ; Times: 1
+	Query: "Mississippi Reptilia" ; Times: 2
+	Query: "genus:Celestus" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "clemmys guttata" ; Times: 4
+	Query: "Tupinambis" ; Times: 1
+	Query: "Liolaemus" ; Times: 3
+	Query: "dendropsophus phlebodes" ; Times: 2
+	Query: "ascaphus truei year >= 1800 year <= 2000" ; Times: 2
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.752370139173285,-84.35302734375))<100000" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 1
+	Query: "Dibamus celebensis" ; Times: 5
+	Query: "rhyacotriton (skeletal)" ; Times: 4
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.730714305756942,-84.2596435546875))<100000" ; Times: 1
+	Query: "Rana sierrae" ; Times: 1
+	Query: "chicahuaxtla" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 6
+	Query: "country:"Yemen"" ; Times: 1
+	Query: "Manatee" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 3
+	Query: "rana New Mexico year >= 1970 year <= 2014 mappable:1" ; Times: 3
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.817329187067783,-84.2816162109375))<44261" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.492408153765531,-84.26513671875))<119178" ; Times: 1
+	Query: "Liolaemus magellanicus (skeleton)" ; Times: 1
+	Query: "Thamnophis gigas california" ; Times: 1
+	Query: "type:specimen county:"Travis" stateprovince:"Texas" country:"United States" class:Reptilia mappable:1 tissue:1" ; Times: 1
+	Query: ""uta stansburiana" county:"Madera" mappable:1" ; Times: 1
+	Query: "specificepithet:sumatranus" ; Times: 1
+	Query: "Gonocephalus kuhlii" ; Times: 4
+	Query: "stateprovince:"Rio San Juan" country:"Nicaragua" class:Reptilia institutioncode:MVZ" ; Times: 1
+	Query: "rhinoderma" ; Times: 3
+	Query: "Basiliscus tissue:1" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "spea intermontana siskiyou county" ; Times: 1
+	Query: "diadophis stateprovince:"utah"" ; Times: 4
+	Query: "stateprovince:"New Mexico" genus:trachemys year >= 1970" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.492408153765531,-84.26513671875))<111295" ; Times: 1
+	Query: "rana sierrae" ; Times: 22
+	Query: "indiana reptiles tissue:1" ; Times: 1
+	Query: "Keen" ; Times: 2
+	Query: "genus:Bolitoglossa" ; Times: 5
+	Query: "sanzinia" ; Times: 1
+	Query: "country:"Panama" genus:Sceloporus" ; Times: 1
+	Query: "Uma inornata (skeleton)" ; Times: 1
+	Query: "huia" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.70905706861822,-84.08935546875))<100000" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "herps catalognumber:770 institutioncode:mvz" ; Times: 2
+	Query: "county:"tulare" stateprovince:"California" specificepithet:altasierrae genus:batrachoseps institutioncode:mvz" ; Times: 1
+	Query: "Batrachoseps robustus" ; Times: 5
+	Query: "elgaria panamintina" ; Times: 9
+	Query: "siren lacertina" ; Times: 1
+	Query: "indiana fountain" ; Times: 1
+	Query: "country:"Panama" specificepithet:nasutum genus:Porthidium" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:"New Jersey"" ; Times: 1
+	Query: "Nephrurus" ; Times: 1
+	Query: "Kalophrynus pleurostigma" ; Times: 1
+	Query: "burti arizona" ; Times: 1
+	Query: "Phyllodactylus insularis" ; Times: 5
+	Query: "type:specimen genus:Neusticurus" ; Times: 2
+	Query: "vipera" ; Times: 1
+	Query: "country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "stateprovince:"Cauca" country:"Colombia" class:Reptilia institutioncode:MVZ" ; Times: 1
+	Query: "pseudotriton new york" ; Times: 1
+	Query: "country:"costa rica" specificepithet:Sceloporus malachiticus mappable:1" ; Times: 1
+	Query: "stateprovince:"Heredia" country:"Costa Rica" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "thamnophis hammondii" ; Times: 4
+	Query: "Meroles anchietae" ; Times: 1
+	Query: "crow" ; Times: 2
+	Query: "specificepithet:Sceloporus malachiticus" ; Times: 1
+	Query: "monk type:specimen AND (-Tennessee)" ; Times: 1
+	Query: "country:"Pakistan"" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus" ; Times: 2
+	Query: "mnhn" ; Times: 1
+	Query: "Terrapene ornata year >= 1960 year <= 1965" ; Times: 1
+	Query: "Corytophanes tissue:1" ; Times: 2
+	Query: "sphenomorphus maculatus" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.817329187067783,-84.2816162109375))<100000" ; Times: 1
+	Query: "Cnemidophorus arubensis" ; Times: 4
+	Query: "Sphenomorphus temmincki" ; Times: 5
+	Query: "Vipera ursinii" ; Times: 2
+	Query: "rana New Mexico mappable:1" ; Times: 1
+	Query: ""uta stansburiana" county:"Merced" mappable:1" ; Times: 2
+	Query: ""uta stansburiana" distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" specificepithet:altasierrae genus:batrachoseps institutioncode:mvz" ; Times: 1
+	Query: "stateprovince:"Arizona" specificepithet:hexalepis genus:Salvadora" ; Times: 1
+	Query: "Uromastyx aegyptius" ; Times: 2
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.28497995025375,-120.4925537109375))<59359" ; Times: 1
+	Query: "Cemophora coccinea coccinea" ; Times: 1
+	Query: "mvz herps 770" ; Times: 1
+	Query: "type:specimen stateprovince:"Texas" country:"United States" specificepithet:elegans genus:Arizona class:Reptilia mappable:1" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.492408153765531,-84.26513671875))<100000" ; Times: 1
+	Query: "crotalus siskiyou county" ; Times: 2
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "New Jersey Kinosternon subrubrum stateprovince:"New Jersey"" ; Times: 1
+	Query: "sus" ; Times: 2
+	Query: "Sphenomorphus maculatus tissue:1" ; Times: 1
+	Query: "specificepithet:decipiens genus:Urotheca" ; Times: 3
+	Query: "specificepithet:Bolitoglossa pesrubra" ; Times: 2
+	Query: "eleutherodactylus melanostictus" ; Times: 2
+	Query: "lepidoblepharis tissue:1" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra mappable:1" ; Times: 3
+	Query: "Bolitoglossa pesrubra" ; Times: 5
+	Query: "Sphenomorphus variegatus" ; Times: 1
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 3
+	Query: "chicahuaxtla amphibia" ; Times: 1
+	Query: ""Salvadora" stateprovince:"California"" ; Times: 3
+	Query: "country:"Costa Rica" specificepithet:sceloporus malachiticus" ; Times: 3
+	Query: "mango" ; Times: 1
+	Query: "thamnophis hammondii Santa Barbara County" ; Times: 2
+	Query: "stateprovince:"Limon" country:"Costa Rica" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "glyptemys stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "xenopus laevis" ; Times: 9
+	Query: "trimorphodon vilkinsonii" ; Times: 1
+	Query: "Vipera" ; Times: 3
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "farancia" ; Times: 1
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia institutioncode:MVZ" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "specificepithet:malachiticus genus:Sceloporus" ; Times: 1
+	Query: "Lampropeltis triangulum sonora" ; Times: 1
+	Query: "Polypedates (Thailand)" ; Times: 2
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.28497995025375,-120.4925537109375))<45568" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" specificepithet:margaritiferus genus:Drymobius institutioncode:MVZ" ; Times: 1
+	Query: "guatemala san marcos" ; Times: 1
+	Query: "axis axis" ; Times: 2
+	Query: "specificepithet:annulatus genus:Sibon" ; Times: 1
+	Query: "order:Gymnophiona mappable:1" ; Times: 1
+	Query: "sceloperus" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "country:"Nicaragua" class:Reptilia institutioncode:MVZ" ; Times: 2
+	Query: "rhinoderma mappable:1" ; Times: 3
+	Query: "country:"costa rica" specificepithet:Sceloporus malachiticus" ; Times: 2
+	Query: "Spea intermontana" ; Times: 1
+	Query: "country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "crotaphytus vestigium" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "pseudoeurycea nigromaculata" ; Times: 4
+	Query: "monk type:specimen" ; Times: 1
+	Query: "country:"Colombia" genus:Lepidoblepharis" ; Times: 1
+	Query: "Lampropeltis triangulum mexico" ; Times: 1
+	Query: "specificepithet:apodemus genus:Neusticurus" ; Times: 1
+	Query: "ambystoma macrodactylum shasta county" ; Times: 3
+	Query: "ambystoma macrodactylum plumas county" ; Times: 2
+	Query: "CHRYSES" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(10.01212955790814,-86.24267578125))<100000" ; Times: 1
+	Query: "pseudoeurycea veracruz" ; Times: 5
+	Query: "Uromastyx (skeleton)" ; Times: 7
+	Query: "sceloporus malachiticus" ; Times: 2
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "Caretta Caretta" ; Times: 1
+	Query: "Angolosaurus skoogi" ; Times: 2
+	Query: "pseudoeurycea" ; Times: 1
+	Query: "rhinoclemmys pulcherrima Mexico" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.817329187067783,-84.2816162109375))<119281" ; Times: 1
+	Query: "164643 type:specimen country:"Costa Rica"" ; Times: 1
+	Query: "country:"Panama" specificepithet:plicatus genus:Ptychoglossus" ; Times: 1
+	Query: "stateprovince:"Madre de Dios" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Phyllodactylus tissue:1" ; Times: 3
+	Query: "france" ; Times: 1
+	Query: "catalognumber:67615 institutioncode:MVZ mappable:1" ; Times: 1
+	Query: "cynisca" ; Times: 1
+	Query: "MVZ 220648" ; Times: 1
+	Query: "indiana fountain reptiles" ; Times: 1
+	Query: "stateprovince:"Rio San Juan" country:"Nicaragua" genus:Anolis institutioncode:MVZ" ; Times: 1
+	Query: "guyane" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"New York" country:"United States"" ; Times: 2
+	Query: "Sceloporus malachiticus country:costa rica" ; Times: 1
+	Query: "genus:Dipsas" ; Times: 1
+	Query: "eleutherodactylus altae" ; Times: 2
+	Query: "Danby stateprovince:"New York" country:"United States"" ; Times: 2
+	Query: "Cnemidophorus murinus" ; Times: 1
+	Query: "Phymaturus palluma (skeleton)" ; Times: 1
+	Query: "amphiesma" ; Times: 2
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "New Jersey Kinosternon subrubrum" ; Times: 1
+	Query: "country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: "albatross" ; Times: 3
+	Query: "Clemmys guttata stateprovince:"New Jersey"" ; Times: 1
+	Query: "W. M. Good" ; Times: 2
+	Query: "Meroles anchietae (skeleton)" ; Times: 1
+	Query: "country:"Nicaragua" institutioncode:MVZ" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "Gerrhosaurus validus" ; Times: 3
+	Query: "bullfrog" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "pseudoeurycea nigromaculata veracruz" ; Times: 2
+	Query: "kinixys homeana" ; Times: 1
+	Query: "country:"Peru" genus:Drymobius" ; Times: 3
+	Query: "bitis" ; Times: 1
+	Query: "Bronchocela cristatella" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius" ; Times: 2
+	Query: "Neusticurus type:specimen" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "vipera ursinii" ; Times: 2
+	Query: "leiopython" ; Times: 2
+	Query: "herps catalognumber:771 institutioncode:mvz" ; Times: 2
+	Query: "lizard" ; Times: 1
+	Query: "MVZ 112330" ; Times: 1
+	Query: "Philippines amphibians" ; Times: 2
+	Query: "ranas" ; Times: 2
+	Query: "rana muscosa tujunga" ; Times: 2
+	Query: "Hoplodactylus maculatus (skeleton)" ; Times: 1
+	Query: "country:"Panama" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "stateprovince:"Veracruz" country:"Mexico" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:Sceloporus malachiticus" ; Times: 4
+	Query: "crotalus horridus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" year >= 2000 year <= 2014" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Anniella pulchra Santa Barbara County" ; Times: 1
+	Query: "epicrates" ; Times: 4
+	Query: "stateprovince:"Arizona" specificepithet:hexalepis genus:Salvadora mappable:1" ; Times: 1
+	Query: "hypopachus" ; Times: 1
+	Query: "crotalus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Valle" country:"Colombia" class:Reptilia institutioncode:MVZ" ; Times: 1
+	Query: "yam" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra distance(location,geopoint(9.817329187067783,-84.2816162109375))<112010" ; Times: 1
+	Query: "Gonatodes tissue:1" ; Times: 1
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.28497995025375,-120.4925537109375))<100000" ; Times: 1
+	Query: "mockingbird" ; Times: 1
+	Query: ""uta stansburiana" tissue:1 distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 1
+	Query: "Rana stateprovince:"New Mexico" year >= 1970 year <= 2014" ; Times: 1
+	Query: "epicrates striatus" ; Times: 1
+	Query: "chiropterotriton" ; Times: 1
+	Query: "axis" ; Times: 2
+	Query: "Lygosoma bowringii tissue:1" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 1
+	Query: "Iguana" ; Times: 3
+	Query: "phrynosoma shasta county" ; Times: 1
+	Query: "spixii" ; Times: 1
+	Query: "MVZ 110932" ; Times: 4
+	Query: "specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Polypedates leucomystax tissue:1" ; Times: 2
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 4
+	Query: "bufo canorus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" specificepithet:relictus genus:batrachoseps institutioncode:mvz" ; Times: 1
+	Query: "Phymaturus palluma" ; Times: 1
+	Query: "Amphiesma vietnam" ; Times: 1
+	Query: "indiana reptiles" ; Times: 2
+	Query: "stateprovince:"Panama" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "masticophis siskiyou county" ; Times: 1
+	Query: ""lampropeltis triangulum" (sonora) mappable:1" ; Times: 2
+	Query: "Ctenosaura pectinata (Skeleton)" ; Times: 1
+	Query: "rana cascadae siskiyou county" ; Times: 1
+	Query: "Rana muscosa grinnell" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 3
+	Query: "Tupinambis rufescens (skeleton)" ; Times: 1
+	Query: "Sphaerodactylus tissue:1" ; Times: 2
+	Query: "American Badger" ; Times: 1
+	Query: "specificepithet:malachiticus genus:Sceloporus mappable:1" ; Times: 1
+	Query: "Liolaemus lutzae (skeleton)" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Prionodactylus" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Laemanctus tissue:1" ; Times: 1
+	Query: "southwestern college" ; Times: 1
+	Query: "Bronchocela celebensis" ; Times: 14
+	Query: "genus:Sphenodon mappable:1" ; Times: 2
+	Query: "trachylepis" ; Times: 1
+	Query: "ambystoma macrodactylum siskiyou county" ; Times: 2
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "rana muscosa" ; Times: 10
+	Query: "Tallahassee" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "rana signata" ; Times: 1
+	Query: "Rhacophorus appendiculatus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Occidozyga laevis philippines" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "pseudotriton stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "crotalus modoc county" ; Times: 1
+	Query: "philodryas" ; Times: 1
+	Query: "country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 2
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "mvz 770" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:margaritiferus genus:Drymobius" ; Times: 2
+	Query: "Lepidophyma smithii" ; Times: 5
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "anura parent" ; Times: 1
+	Query: "clemmys stateprovince:"New York" country:"United States"" ; Times: 2
+	Query: "phrynosoma siskiyou county" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 437 download events in this period)
+Total number of records downloaded: 114225 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 105929
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 14
+	Country: Costa Rica ; Times: 5
+	Country: Israel ; Times: 1
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-02 ; Times: 3
+	Date: 2014-07-06 ; Times: 6
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 3
+	Date: 2014-07-11 ; Times: 2
+	Date: 2014-07-12 ; Times: 5
+	Date: 2014-07-15 ; Times: 12
+	Date: 2014-07-16 ; Times: 2
+	Date: 2014-07-22 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 1
+	Date: 2014-07-29 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Lamprolepis smaragdina philippines" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:sceloporus malachiticus" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" specificepithet:altasierrae genus:batrachoseps institutioncode:mvz" ; Times: 1
+	Query: "country:"costa rica" specificepithet:sceloporus malachiticus" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" specificepithet:relictus genus:batrachoseps institutioncode:mvz" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: "Thamnophis gigas california" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Sphenomorphus variegatus" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Occidozyga laevis philippines" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "sphenomorphus jagori" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "genus:Sphenodon mappable:1" ; Times: 1
+	Query: "county:"tulare" stateprovince:"California" specificepithet:altasierrae genus:batrachoseps institutioncode:mvz" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 2
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "Psammodynastes pulverulentus philippines" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "specificepithet:Bolitoglossa pesrubra mappable:1" ; Times: 1
+	Query: "order:Gymnophiona mappable:1" ; Times: 1
+	Query: "rana muscosa tujunga" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:Sceloporus malachiticus" ; Times: 2
+	Query: "rhinoderma mappable:1" ; Times: 1
+	Query: "country:"costa rica" specificepithet:Sceloporus malachiticus" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2389
+Total number of records retrieved from searches: 56878
+Number of download events that retrieved data from the resource: 324
+Total number of records downloaded: 227540
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2389
+Total number of records retrieved from searches: 56878
+Number of download events that retrieved data from the resource: 432
+Total number of records downloaded: 386548
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
