@@ -1,0 +1,402 @@
+Report for Institution Code MVZ, Resource mvz_herp
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 420
+Number of records retrieved in searches: 10119
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 420
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 12
+	Date: 2014-08-02 ; Times: 4
+	Date: 2014-08-03 ; Times: 3
+	Date: 2014-08-04 ; Times: 10
+	Date: 2014-08-05 ; Times: 43
+	Date: 2014-08-06 ; Times: 16
+	Date: 2014-08-07 ; Times: 20
+	Date: 2014-08-08 ; Times: 24
+	Date: 2014-08-09 ; Times: 1
+	Date: 2014-08-10 ; Times: 8
+	Date: 2014-08-11 ; Times: 22
+	Date: 2014-08-12 ; Times: 24
+	Date: 2014-08-13 ; Times: 11
+	Date: 2014-08-14 ; Times: 10
+	Date: 2014-08-15 ; Times: 6
+	Date: 2014-08-16 ; Times: 7
+	Date: 2014-08-17 ; Times: 7
+	Date: 2014-08-18 ; Times: 21
+	Date: 2014-08-19 ; Times: 19
+	Date: 2014-08-20 ; Times: 6
+	Date: 2014-08-21 ; Times: 11
+	Date: 2014-08-22 ; Times: 8
+	Date: 2014-08-23 ; Times: 25
+	Date: 2014-08-24 ; Times: 7
+	Date: 2014-08-25 ; Times: 12
+	Date: 2014-08-26 ; Times: 34
+	Date: 2014-08-27 ; Times: 20
+	Date: 2014-08-28 ; Times: 16
+	Date: 2014-08-29 ; Times: 3
+	Date: 2014-08-31 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Philippines" specificepithet:multicarinata genus:mabuya" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 4
+	Query: "Sistrurus catenatus catenatus" ; Times: 2
+	Query: "stateprovince:"New York" genus:Heterodon" ; Times: 3
+	Query: "hyperolius spinigularis" ; Times: 1
+	Query: "(lachixio)" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Pachycalamus brevis" ; Times: 1
+	Query: "osa meadow genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "AGAMODON" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 1
+	Query: "batrachoseps simatus" ; Times: 1
+	Query: "Thamnophis cyrtopsis Texas Travis" ; Times: 1
+	Query: "sherman pass road recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "Ceratophrys cornuta" ; Times: 1
+	Query: "Bipes tridactylus" ; Times: 1
+	Query: "catalognumber:74573 institutioncode:mvz" ; Times: 2
+	Query: "Trimeresurus tissue:1" ; Times: 2
+	Query: "stateprovince:"Tennessee" genus:Plethodon mappable:1" ; Times: 2
+	Query: "Emys marmorata" ; Times: 2
+	Query: "Echis carinatus" ; Times: 3
+	Query: "sistrurus catenatus texas" ; Times: 1
+	Query: "country:"Panama" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "Hemidactylus tissue:1" ; Times: 1
+	Query: "Aspidoscelis hyperythra" ; Times: 3
+	Query: "anolis sagrei country:"United States" year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Hypsiboas crepitans country:"Colombia"" ; Times: 2
+	Query: "anolis carolinensis year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "class:reptilia catalognumber:97526 institutioncode:mvz" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "Ptychohyla" ; Times: 2
+	Query: "Micrurus tener Texas Hays" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "batrachoseps "Baja California"" ; Times: 5
+	Query: "stateprovince:"New York" genus:Clemmys" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "phyllobates vittatus" ; Times: 4
+	Query: "Lygosoma tissue:1" ; Times: 2
+	Query: ""Scaphiopus couchii" stateprovince:"California"" ; Times: 2
+	Query: "specificepithet:robustus genus:batrachoseps" ; Times: 1
+	Query: "thorius lachixio" ; Times: 2
+	Query: "poison meadow genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "ophisops elegans" ; Times: 2
+	Query: "anolis cristatellus country:"United States" AND (Puerto Rico) year >= 1990 year <= 2014 mappable:1" ; Times: 3
+	Query: "genus:batrachoseps recordedby:Hansen year >= 1983 year <= 1983" ; Times: 1
+	Query: "kennedy meadow genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<289463" ; Times: 1
+	Query: "Anolis carolinensis year >= 1985 year <= 2014 mappable:1" ; Times: 1
+	Query: "naja tissue:1" ; Times: 3
+	Query: "Crotalus durissus" ; Times: 3
+	Query: "country:"Panama" genus:Epicrates" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "Lipinia vittigera tissue:1" ; Times: 1
+	Query: "Afghanistan" ; Times: 2
+	Query: "merced falls" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 2
+	Query: "human" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "specificepithet:multicarinata genus:mabuya" ; Times: 2
+	Query: "Crotalus scutulatus Texas Brewster" ; Times: 1
+	Query: "Scinax ruber" ; Times: 2
+	Query: "Coleonyx switaki switaki" ; Times: 1
+	Query: "tepic" ; Times: 2
+	Query: "washington state amphibians" ; Times: 1
+	Query: "gyalopion canum arizona" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1990 year <= 2014 mappable:1 distance(location,geopoint(35.67514743608452,-123.739013671875))<203583.80893380733" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "anolis carolinensis country:"United States" year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 3
+	Query: "TCWC herps" ; Times: 1
+	Query: "genus:Carphophis tissue:1" ; Times: 2
+	Query: "sceloporus occidentalis year >= 1998 year <= 2014 mappable:1 distance(location,geopoint(36.89719446989033,-124.07958984375))<169203" ; Times: 1
+	Query: "Anolis sagrei year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1998 year <= 2014 mappable:1 distance(location,geopoint(37.160316546736716,-123.59619140625))<161986.04857675647" ; Times: 1
+	Query: "anolis carolinensis year >= 2000 year <= 2014 mappable:1" ; Times: 1
+	Query: "recordedby:k* year >= 1953 year <= 1953" ; Times: 1
+	Query: "breckenridge county:"Kern" genus:batrachoseps" ; Times: 1
+	Query: "amphisbaena" ; Times: 1
+	Query: "french Guiana" ; Times: 1
+	Query: "Sphenomorphus maculatus tissue:1" ; Times: 2
+	Query: "Mabuya longicaudata tissue:1" ; Times: 1
+	Query: "olifants" ; Times: 1
+	Query: "anolis porcatus year >= 1990 year <= 2014" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1995" ; Times: 3
+	Query: "country:"Panama" specificepithet:lansbergii genus:Porthidium" ; Times: 2
+	Query: "Geocalamus acutus" ; Times: 1
+	Query: "Angola class:Amphibia institutioncode:MVZ" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1995 distance(location,geopoint(37.160316546736716,-123.486328125))<168083" ; Times: 1
+	Query: "anolis carolinensis type:specimen year >= 2000 year <= 2014 mappable:1" ; Times: 1
+	Query: "cuora type:specimen" ; Times: 2
+	Query: "anolis cristatellus" ; Times: 11
+	Query: "Lipinia tissue:1" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "Vipera berus" ; Times: 4
+	Query: "Leptodeira septentrionalis septentrionalis" ; Times: 1
+	Query: "rana temporaria" ; Times: 2
+	Query: "Rana neovolcanica" ; Times: 4
+	Query: "Arizona elegans Texas" ; Times: 1
+	Query: "plestiodon skiltonianus yuba county" ; Times: 1
+	Query: "Oxyrhopus rhombifer" ; Times: 1
+	Query: "catalognumber:259605" ; Times: 1
+	Query: "NE horse meadow campground genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "cow" ; Times: 1
+	Query: "stateprovince:"california" genus:ascaphus" ; Times: 1
+	Query: "plestiodon lagunensis" ; Times: 1
+	Query: "cadena" ; Times: 1
+	Query: "Echis" ; Times: 6
+	Query: "sceloporus occidentalis year >= 1990 year <= 2014 distance(location,geopoint(38.89958342598248,-123.15673828125))<86866.17819800209" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Sphenomorphus maculatus" ; Times: 1
+	Query: "Tantilla tissue:1" ; Times: 10
+	Query: "varanus" ; Times: 1
+	Query: "specificepithet:Chamaeleo senegalensis" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 2
+	Query: "rockhouse basin genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "morelia spilota" ; Times: 1
+	Query: "Crotalus horridus Texas" ; Times: 1
+	Query: "toad tissue:1" ; Times: 1
+	Query: "leptopelis rufus" ; Times: 3
+	Query: "terrapene ornata distance(location,geopoint(30.29701788337205,-98.4814453125))<248988" ; Times: 1
+	Query: "Gloydius" ; Times: 2
+	Query: "catalognumber:219115 institutioncode:MVZ" ; Times: 1
+	Query: "galapagos tortoise" ; Times: 3
+	Query: "chironius exoletus" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 2
+	Query: "Agama boulengeri" ; Times: 1
+	Query: "Reptilia Texas Palo Pinto" ; Times: 1
+	Query: "Physalaemus pustulosus" ; Times: 3
+	Query: "cadea" ; Times: 1
+	Query: "stateprovince:"Meta" country:"Colombia"" ; Times: 1
+	Query: "glyphoglossus" ; Times: 1
+	Query: "sa pa" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 5
+	Query: "Blanus tingitanus" ; Times: 1
+	Query: "petrosaurus thalassinus" ; Times: 2
+	Query: "Vipera ammodytes" ; Times: 3
+	Query: "bothriechis" ; Times: 2
+	Query: "lizards" ; Times: 2
+	Query: "Sympholis lippiens" ; Times: 5
+	Query: "rHINEURA" ; Times: 2
+	Query: "python regius" ; Times: 1
+	Query: "ayacucho" ; Times: 2
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "stateprovince:"New York" genus:Heterodon mappable:1" ; Times: 1
+	Query: "Leptodeira septentrionalis septentrionalis distance(location,geopoint(26.78484736105119,-98.50341796875))<227432" ; Times: 1
+	Query: "trachylepis class:Reptilia institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:109823 institutioncode:mvz mappable:1" ; Times: 1
+	Query: "Eristicophis" ; Times: 3
+	Query: "Cyrtodactylus jellesmae" ; Times: 1
+	Query: "sceloporus occidentalis year >= 2000" ; Times: 6
+	Query: "recordedby:Hansen year >= 1983 year <= 1983" ; Times: 1
+	Query: "eleutherodactylus altae" ; Times: 1
+	Query: "trachylepis" ; Times: 1
+	Query: "feylinia" ; Times: 1
+	Query: "Batrachoseps gregarius" ; Times: 2
+	Query: "cope" ; Times: 1
+	Query: "batrachoseps altasierrae" ; Times: 2
+	Query: "anolis cristatellus country:"United States" year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "Bipes biporus" ; Times: 1
+	Query: "Heterodon platirhinos Texas Palo Pinto" ; Times: 1
+	Query: "specificepithet:constrictor genus:boa tissue:1" ; Times: 1
+	Query: "Cuora" ; Times: 1
+	Query: "California red-legged frog" ; Times: 2
+	Query: "brown bear" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 3
+	Query: "rabbit" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Hemiphyllodactylus typus" ; Times: 1
+	Query: "Batrachoseps stebbinsi" ; Times: 1
+	Query: "naja tissue" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1995 distance(location,geopoint(37.160316546736716,-123.486328125))<193457" ; Times: 5
+	Query: "sceloporus occidentalis distance(location,geopoint(38.89958342598248,-123.15673828125))<86866.17819800209" ; Times: 5
+	Query: ""Batrachoseps minor" tissue:1" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" genus:ascaphus" ; Times: 2
+	Query: "sceloporus occidentalis year >= 2000 mappable:1" ; Times: 11
+	Query: "FMNH reptiles type:specimen" ; Times: 1
+	Query: "6596 Bufo" ; Times: 1
+	Query: "Diplometopon zarudnyi" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 3
+	Query: "petrosaurus" ; Times: 1
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<100000" ; Times: 1
+	Query: "Leptodeira septentrionalis septentrionalis distance(location,geopoint(26.78484736105119,-98.50341796875))<100000" ; Times: 1
+	Query: "UNAM" ; Times: 1
+	Query: "toad mappable:1 tissue:1" ; Times: 1
+	Query: "cordylus" ; Times: 1
+	Query: "estado de mexico" ; Times: 4
+	Query: "Lipinia relicta" ; Times: 1
+	Query: "Python tissue:1" ; Times: 4
+	Query: "anolis distichus" ; Times: 1
+	Query: "Bufo nebulifer Texas Travis" ; Times: 1
+	Query: "Micrurus" ; Times: 1
+	Query: "Sphenomorphus indicus tissue:1" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "murcielagos" ; Times: 1
+	Query: "beach meadows guard station genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "country:"malaysia" year >= 1949 year <= 1952" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1998 year <= 2014 mappable:1 distance(location,geopoint(37.474858084971046,-122.62939453125))<161986" ; Times: 1
+	Query: "erymnochelys" ; Times: 1
+	Query: "Blanus cinereus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:simatus genus:batrachoseps" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1998 year <= 2014 mappable:1 distance(location,geopoint(37.474858084971046,-122.62939453125))<152659" ; Times: 1
+	Query: "Lygosoma bowringii tissue:1" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Necturus New York" ; Times: 2
+	Query: "thamnophis eques arizona" ; Times: 1
+	Query: "Cnemidophorus gularis Texas Travis" ; Times: 1
+	Query: "Blanus strauchi" ; Times: 2
+	Query: "distance(location,geopoint(-0.23437345230246998,2.548828125))<388624" ; Times: 1
+	Query: "testudo" ; Times: 1
+	Query: "troy meadow genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<334425" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Cynisca leucura" ; Times: 1
+	Query: "ESE horse meadow campground genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "SSE burton camp genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "Crotalus atrox Arkansas" ; Times: 1
+	Query: "ensatina klauberi" ; Times: 5
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "country:"suriname" year >= 1990 year <= 2014 tissue:1" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Tytthoscincus parvus" ; Times: 1
+	Query: "terrapene ornata" ; Times: 2
+	Query: "Bufo boreas Colorado" ; Times: 1
+	Query: "plestiodon type:specimen tissue:1" ; Times: 1
+	Query: "Lanthanotus" ; Times: 1
+	Query: "Echis Afghanistan" ; Times: 1
+	Query: "sceloporus occidentalis year >= 1998 year <= 2014 mappable:1 distance(location,geopoint(36.89719446989033,-124.07958984375))<159424.5565306386" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Twin Oak Pond" ; Times: 1
+	Query: "Crotalus lepidus Mexico (Mexico) AND (New) mappable:1" ; Times: 1
+	Query: "N granite knob genus:batrachoseps recordedby:Hansen year >= 1980 year <= 1980" ; Times: 1
+	Query: "merced and falls and california" ; Times: 1
+	Query: "beach meadows guard station genus:batrachoseps recordedby:Hansen year >= 1979 year <= 1979" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "Sphenomorphus celebense" ; Times: 3
+	Query: "sbmnh-santa rosa island" ; Times: 1
+	Query: "sherman pass road recordedby:Hansen year >= 1980" ; Times: 1
+	Query: "Eleutherodactylus coqui mappable:1" ; Times: 1
+	Query: "angola mvz" ; Times: 2
+	Query: "tiger salamander" ; Times: 1
+	Query: "Scincella tissue:1" ; Times: 3
+	Query: "Cercosaura ocellata" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "genus:Kinyongia OR Trioceros OR Rhampholeon" ; Times: 1
+	Query: "Hyla bocourti" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 273 download events in this period)
+Total number of records downloaded: 73082 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 30660
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 57
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-02 ; Times: 1
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 12
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-08 ; Times: 3
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-14 ; Times: 4
+	Date: 2014-08-17 ; Times: 6
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-25 ; Times: 1
+	Date: 2014-08-26 ; Times: 6
+	Date: 2014-08-27 ; Times: 7
+	Date: 2014-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"brazil"" ; Times: 2
+	Query: "country:"Philippines" specificepithet:multicarinata genus:mabuya" ; Times: 1
+	Query: "terrapene ornata distance(location,geopoint(30.29701788337205,-98.4814453125))<248988" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 2
+	Query: "hyperolius spinigularis" ; Times: 1
+	Query: "Coleonyx variegatus variegatus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "batrachoseps simatus" ; Times: 1
+	Query: "Cynisca leucura" ; Times: 1
+	Query: "petrosaurus thalassinus" ; Times: 2
+	Query: "Bipes tridactylus" ; Times: 1
+	Query: "Sceloporus" ; Times: 4
+	Query: "Acris gryllus" ; Times: 1
+	Query: "rHINEURA" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "amphisbaena" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Crotalus atrox distance(location,geopoint(29.611670115197377,-98.02001953125))<334425" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "anolis sagrei country:"United States" year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Gambelia sila" ; Times: 3
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "Ambystoma" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "ensatina klauberi" ; Times: 1
+	Query: "family:Chamaeleonidae class:reptilia" ; Times: 1
+	Query: "Bipes biporus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "Batrachoseps stebbinsi" ; Times: 1
+	Query: "specificepithet:robustus genus:batrachoseps" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "anolis cristatellus country:"United States" AND (Puerto Rico) year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Eleutherodactylus coqui mappable:1" ; Times: 1
+	Query: "Diplometopon zarudnyi" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "country:Kenya OR Tanzania class:Reptilia" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2809
+Total number of records retrieved from searches: 66997
+Number of download events that retrieved data from the resource: 381
+Total number of records downloaded: 300622
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2809
+Total number of records retrieved from searches: 66997
+Number of download events that retrieved data from the resource: 489
+Total number of records downloaded: 459630
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
