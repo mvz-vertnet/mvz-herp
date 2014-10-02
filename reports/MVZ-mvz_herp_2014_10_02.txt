@@ -1,0 +1,301 @@
+Report for Institution Code MVZ, Resource mvz_herp
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 4417
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 5
+	Country: Colombia ; Times: 6
+	Country: Costa Rica ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Malaysia ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 180
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 7
+	Date: 2014-09-02 ; Times: 17
+	Date: 2014-09-03 ; Times: 4
+	Date: 2014-09-04 ; Times: 7
+	Date: 2014-09-05 ; Times: 11
+	Date: 2014-09-06 ; Times: 1
+	Date: 2014-09-07 ; Times: 3
+	Date: 2014-09-08 ; Times: 12
+	Date: 2014-09-09 ; Times: 9
+	Date: 2014-09-10 ; Times: 9
+	Date: 2014-09-11 ; Times: 10
+	Date: 2014-09-12 ; Times: 14
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 5
+	Date: 2014-09-15 ; Times: 41
+	Date: 2014-09-16 ; Times: 5
+	Date: 2014-09-17 ; Times: 27
+	Date: 2014-09-18 ; Times: 6
+	Date: 2014-09-19 ; Times: 7
+	Date: 2014-09-20 ; Times: 5
+	Date: 2014-09-21 ; Times: 3
+	Date: 2014-09-22 ; Times: 8
+	Date: 2014-09-23 ; Times: 14
+	Date: 2014-09-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "california tiger salamander" ; Times: 2
+	Query: "recordedby:heinrich" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<11691" ; Times: 1
+	Query: "multicarinata sutter county" ; Times: 1
+	Query: "Rhinoclemmys tissue:1" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "sceloporus occidentalis sutter county" ; Times: 2
+	Query: "odontophrynus" ; Times: 2
+	Query: "stateprovince:"new mexico" specificepithet:marcianus genus:thamnophis year >= 1970 year <= 2014 mappable:1" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "sutter buttes" ; Times: 1
+	Query: "county:"Kern" specificepithet:relictus genus:batrachoseps" ; Times: 1
+	Query: "xantusia vigilis utah" ; Times: 1
+	Query: "caretta caretta" ; Times: 3
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "oxyuranus" ; Times: 1
+	Query: "Dicrodon (Skeleton)" ; Times: 2
+	Query: "Macroclemys" ; Times: 2
+	Query: "plethodon elongatus" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "imbricata" ; Times: 1
+	Query: "lampropeltis zonata distance(location,geopoint(37.43997405227057,-122.080078125))<100000" ; Times: 1
+	Query: "county:"Kern" specificepithet:gregarius genus:batrachoseps" ; Times: 2
+	Query: "catalognumber:224834 institutioncode:MVZ" ; Times: 1
+	Query: "testudines (bone)" ; Times: 2
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "thamnophis sutter county" ; Times: 1
+	Query: "phyllobates vittatus" ; Times: 4
+	Query: "institutioncode:mvz (hildebrand)" ; Times: 1
+	Query: "bogertophis rosaliae" ; Times: 1
+	Query: "1933 marshall" ; Times: 1
+	Query: "institutioncode:mvz 30750" ; Times: 1
+	Query: "Aspidoscelis sutter county" ; Times: 1
+	Query: "aspidoscelis labialis" ; Times: 1
+	Query: "specificepithet:pulveriventris genus:Rhadinaea" ; Times: 2
+	Query: "233102" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "masticophis sutter county" ; Times: 1
+	Query: "mazama" ; Times: 1
+	Query: "Necturus illinois" ; Times: 1
+	Query: "Hylarana" ; Times: 2
+	Query: ""Rana Catesbeiana" mappable:1 tissue:1" ; Times: 1
+	Query: "genus:ctenotus" ; Times: 1
+	Query: "Plectrohyla" ; Times: 1
+	Query: "Cnemidophorus (Skeleton)" ; Times: 3
+	Query: "stateprovince:"new mexico" genus:thamnophis" ; Times: 1
+	Query: "cnemidophorus sutter county" ; Times: 1
+	Query: "lampropeltis zonata distance(location,geopoint(37.64903402157866,-121.036376953125))<100000" ; Times: 1
+	Query: "batrachoseps sutter county" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "Crocodilurus (Skeleton)" ; Times: 4
+	Query: "Phyllodactylus in mexico" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "hyla sutter county" ; Times: 1
+	Query: "elgaria sutter county" ; Times: 1
+	Query: "plectrohyla" ; Times: 2
+	Query: "amphiuma skull" ; Times: 2
+	Query: "(booth)" ; Times: 1
+	Query: "(institutioncode:CAS OR institutioncode:MVZ) (catalognumber:5238 OR catalognumber:5241)" ; Times: 1
+	Query: "bufo sutter county" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:chiliensis genus:Liolaemus mappable:1" ; Times: 2
+	Query: "MVZ 150169" ; Times: 2
+	Query: "california red legged frog" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:houstonensis genus:Bufo year >= 1888 year <= 2014" ; Times: 1
+	Query: "Polemon acanthias" ; Times: 1
+	Query: "molossus tissue:1" ; Times: 4
+	Query: "Tupinambis (Skeleton)" ; Times: 1
+	Query: "Ptychohyla hypomykter" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "230400" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 7
+	Query: "plumas feather" ; Times: 1
+	Query: "california red legged frog Monterey County" ; Times: 1
+	Query: "genus:Ctenotus" ; Times: 1
+	Query: "rhinocheilus sutter county" ; Times: 2
+	Query: "Rhinocheilus lecontei Texas" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Kentropyx (Skeleton)" ; Times: 1
+	Query: "CAS 233290" ; Times: 1
+	Query: "gonatodes humeralis" ; Times: 1
+	Query: "bufoniformis" ; Times: 1
+	Query: "sauromalus county:"maricopa" stateprovince:"arizona"" ; Times: 1
+	Query: "Teius (Skeleton)" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "hyla sutter buttes" ; Times: 1
+	Query: "mustersi" ; Times: 1
+	Query: "county:"Tulare" specificepithet:relictus genus:batrachoseps" ; Times: 2
+	Query: "Ameiva (Skeleton)" ; Times: 1
+	Query: "stateprovince:"Wyoming" class:amphibia" ; Times: 2
+	Query: "red legged frog" ; Times: 1
+	Query: "pituophis sutter county" ; Times: 1
+	Query: "boreas sutter county" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "recordedby:d. t. wright" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "genus:Eleutherodactylus (tissue OR precerved) tissue:1" ; Times: 5
+	Query: "231042" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "python regius" ; Times: 2
+	Query: "bothrops" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 2
+	Query: "stateprovince:"Texas" specificepithet:turcicus genus:Hemidactylus year >= 1888 year <= 2014" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "Plectrohyla (formalin)" ; Times: 1
+	Query: "skiltonianus sutter county" ; Times: 3
+	Query: "plestiodon septentrionalis" ; Times: 1
+	Query: "crotalus in mexico" ; Times: 2
+	Query: "Phrynosoma mexico" ; Times: 2
+	Query: "batrachoseps altasierrae" ; Times: 1
+	Query: "emys" ; Times: 1
+	Query: "231191" ; Times: 1
+	Query: "specificepithet:altasierrae genus:batrachoseps catalognumber:190984 institutioncode:mvz" ; Times: 1
+	Query: "berlin" ; Times: 1
+	Query: "calamaria" ; Times: 1
+	Query: "crotalus sutter county" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "stateprovince:"new mexico" genus:thamnophis year >= 1970 year <= 2014" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" class:reptilia year >= 1900 year <= 1955" ; Times: 1
+	Query: "fresno slough" ; Times: 1
+	Query: "Bonaire" ; Times: 1
+	Query: "specificepithet:ramsayi genus:Aspidites mappable:1" ; Times: 3
+	Query: "sceloporus horridus" ; Times: 1
+	Query: "Kentropyx striata" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" class:amphibia year >= 1900 year <= 1960" ; Times: 1
+	Query: ""Diadophis punctatus" (Alabama)" ; Times: 1
+	Query: "Varanus niloticus (Skeleton)" ; Times: 2
+	Query: "phrynosoma county:"maricopa" stateprovince:"arizona"" ; Times: 1
+	Query: "specificepithet:altasierrae genus:batrachoseps" ; Times: 1
+	Query: "institutioncode:mvz 30765" ; Times: 2
+	Query: "Sutter buttes" ; Times: 1
+	Query: "Thamnophis sirtalis New Mexico" ; Times: 1
+	Query: "236424" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "type:specimen institutioncode:mvz (hildebrand)" ; Times: 1
+	Query: "Bokermannohyla circumdata" ; Times: 1
+	Query: "Pyxicephalus" ; Times: 1
+	Query: "Hypsiboas rufitelus" ; Times: 2
+	Query: "223937" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "feather plumas" ; Times: 9
+	Query: "hypsiboas crepitans" ; Times: 2
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "dendropsophus" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "county:"kern" specificepithet:relictus genus:batrachoseps" ; Times: 1
+	Query: "Bogertophis rosaliae" ; Times: 1
+	Query: "223631" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "genus:ctenotus AND (NOT CAS)" ; Times: 1
+	Query: "country:"US"" ; Times: 1
+	Query: "stateprovince:"Java" tissue:1" ; Times: 1
+	Query: "labialis" ; Times: 2
+	Query: "Polemon neuwiedi" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:bramei genus:batrachoseps" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "meroles suborbitalis" ; Times: 2
+	Query: "graciosus sutter county" ; Times: 1
+	Query: "taricha rivularis" ; Times: 2
+	Query: "dog" ; Times: 2
+	Query: "(plumas feather)" ; Times: 1
+	Query: "stateprovince:"Wyoming" AND (NOT mammal* NOT bird*)" ; Times: 1
+	Query: "plectrohyla hartwegi" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<8767" ; Times: 1
+	Query: "country:"Mexico" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 164 download events in this period)
+Total number of records downloaded: 15966 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 14846
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 19
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-08 ; Times: 1
+	Date: 2014-09-09 ; Times: 3
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-11 ; Times: 2
+	Date: 2014-09-12 ; Times: 2
+	Date: 2014-09-15 ; Times: 3
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-18 ; Times: 2
+	Date: 2014-09-19 ; Times: 1
+	Date: 2014-09-20 ; Times: 3
+	Date: 2014-09-21 ; Times: 2
+	Date: 2014-09-22 ; Times: 1
+	Date: 2014-09-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "testudines (bone OR skeleton OR shell OR skull)" ; Times: 1
+	Query: "Grulla" ; Times: 1
+	Query: "sigmodon" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" class:reptilia year >= 1900 year <= 1960" ; Times: 1
+	Query: "specificepithet:platycephalus genus:hydromantes" ; Times: 1
+	Query: "Andrias" ; Times: 3
+	Query: "Pyxicephalus" ; Times: 1
+	Query: "hypsiboas crepitans" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:turcicus genus:Hemidactylus year >= 1888 year <= 2014" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:houstonensis genus:Bufo year >= 1888 year <= 2014" ; Times: 1
+	Query: "crotalus in mexico" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "county:"Tulare" specificepithet:relictus genus:batrachoseps" ; Times: 1
+	Query: "distance(location,geopoint(34.04014265821739,-118.7127685546875))<7406.907814491575" ; Times: 1
+	Query: "county:"Kern" specificepithet:relictus genus:batrachoseps" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:bramei genus:batrachoseps" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "Kentropyx striata" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" class:amphibia year >= 1900 year <= 1960" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<8767" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3042
+Total number of records retrieved from searches: 71414
+Number of download events that retrieved data from the resource: 410
+Total number of records downloaded: 316588
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3042
+Total number of records retrieved from searches: 71414
+Number of download events that retrieved data from the resource: 518
+Total number of records downloaded: 475596
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
