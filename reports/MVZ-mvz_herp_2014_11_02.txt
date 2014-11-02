@@ -1,0 +1,293 @@
+Report for Institution Code MVZ, Resource mvz_herp
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 328
+Number of records retrieved in searches: 6780
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 12
+	Country: Germany ; Times: 10
+	Country: Greece ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Israel ; Times: 4
+	Country: Mexico ; Times: 64
+	Country: Namibia ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: United States ; Times: 203
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 11
+	Date: 2014-10-11 ; Times: 10
+	Date: 2014-10-12 ; Times: 2
+	Date: 2014-10-13 ; Times: 7
+	Date: 2014-10-14 ; Times: 8
+	Date: 2014-10-15 ; Times: 7
+	Date: 2014-10-16 ; Times: 10
+	Date: 2014-10-17 ; Times: 11
+	Date: 2014-10-18 ; Times: 21
+	Date: 2014-10-19 ; Times: 5
+	Date: 2014-10-20 ; Times: 12
+	Date: 2014-10-21 ; Times: 15
+	Date: 2014-10-22 ; Times: 32
+	Date: 2014-10-23 ; Times: 21
+	Date: 2014-10-24 ; Times: 14
+	Date: 2014-10-25 ; Times: 8
+	Date: 2014-10-26 ; Times: 2
+	Date: 2014-10-27 ; Times: 20
+	Date: 2014-10-28 ; Times: 17
+	Date: 2014-10-29 ; Times: 20
+	Date: 2014-10-30 ; Times: 40
+	Date: 2014-10-31 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 11
+	Query: "Agama planiceps" ; Times: 5
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Plestiodon multivirgatus" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "PAH" ; Times: 1
+	Query: "dendrelaphis" ; Times: 2
+	Query: "stateprovince:"tucuman" mappable:1" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "STENORRHINA DEGENHARDTII" ; Times: 2
+	Query: "country:"Panama" specificepithet:leptophrys genus:Ameiva" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Pseudoeurycea bellii" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 2
+	Query: "chelonia skeletal type:specimen" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "Elgaria panamintina" ; Times: 34
+	Query: "country:"France" mappable:1" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "Micrurus Georgia" ; Times: 1
+	Query: "Rana forreri" ; Times: 7
+	Query: "california red-legged frog year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 2
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 4
+	Query: "trachemys venusta" ; Times: 1
+	Query: "Paraguay Reptilia mappable:1" ; Times: 1
+	Query: "Micrurus tener" ; Times: 3
+	Query: "megophrys" ; Times: 1
+	Query: "genus:ctenotus institutioncode:MVZ" ; Times: 2
+	Query: "parrot" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Bolitoglossa pacaya" ; Times: 2
+	Query: "Lygosoma sundevalli" ; Times: 1
+	Query: "Tarsius" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 1
+	Query: "TESTUDO GRAECA" ; Times: 1
+	Query: "Rana spectabilis" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "Ischnocnema" ; Times: 1
+	Query: "type:specimen country:"sao tome" class:amphibia mappable:1" ; Times: 1
+	Query: ""Chuck"" ; Times: 1
+	Query: "plethodon welleri" ; Times: 5
+	Query: "type:specimen country:"cameroon" class:amphibia mappable:1" ; Times: 1
+	Query: "Gopherus polyphemus" ; Times: 1
+	Query: "stateprovince:"georgia" genus:Desmognathus year >= 1960 year <= 1961" ; Times: 1
+	Query: "lion" ; Times: 2
+	Query: "notophthalmus meridionalis" ; Times: 10
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "sceloporus occidentalis type:specimen year >= 1888 year <= 2014 mappable:1 tissue:1" ; Times: 2
+	Query: "Corallus annulatus" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Alligator mississippiensis" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 2
+	Query: "TESTUDO GRAECA ISRAEL" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "Tlalocohyla smithii" ; Times: 2
+	Query: "Chamaeleonidae country:"Madagascar"" ; Times: 3
+	Query: "zombie" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "North American Porcupine" ; Times: 1
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 2
+	Query: "Incilius macrocristatus" ; Times: 1
+	Query: "elaphe vulpina" ; Times: 1
+	Query: "przewalskii mappable:1" ; Times: 1
+	Query: "aneides hardii" ; Times: 3
+	Query: "plestiodon yolo county" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Brookesia country:"Madagascar"" ; Times: 1
+	Query: "leptopelis calcaratus" ; Times: 2
+	Query: "stateprovince:"Cocle" country:"Panama" specificepithet:ameiva genus:Ameiva" ; Times: 1
+	Query: "Abronia martindelcampoi" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "Hyla plicata distance(location,geopoint(19.559790136497398,-99.25048828125))<385770" ; Times: 3
+	Query: "reptiles distribution map" ; Times: 1
+	Query: "Physignathus cocincinus" ; Times: 2
+	Query: "Ambystoma californiense county:"sonoma"" ; Times: 1
+	Query: "thamnophis melanogaster" ; Times: 2
+	Query: "eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "type:specimen country:"mozambique" class:amphibia mappable:1" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "Reptilia distance(location,geopoint(7.18810087117902,-73.212890625))<100000" ; Times: 1
+	Query: "california tiger salamander year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "north american porcupine mappable:1" ; Times: 2
+	Query: "Abronia graminea" ; Times: 4
+	Query: "gambelia copei" ; Times: 1
+	Query: "dendrobates truncatus" ; Times: 1
+	Query: "stateprovince:"idaho" institutioncode:MVZ media:1" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 5
+	Query: "Thamnophis cyrtopsis" ; Times: 5
+	Query: "Huia masonii" ; Times: 3
+	Query: "Riopa sundevalli" ; Times: 1
+	Query: "boiga irregularis" ; Times: 12
+	Query: "catalognumber:18 institutioncode:MVZ" ; Times: 1
+	Query: "corallus caninus" ; Times: 1
+	Query: "chelonia type:specimen (skeletal)" ; Times: 1
+	Query: "Rhadinaea stadelmani" ; Times: 1
+	Query: "amphiesma" ; Times: 1
+	Query: "Brachycephalus" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 5
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "alligator sinensis" ; Times: 7
+	Query: "Leptopelis calcaratus" ; Times: 5
+	Query: "przewalskii" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 8
+	Query: "Xochimilco" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"New York"" ; Times: 2
+	Query: "Xenopus laevis tissue:1" ; Times: 1
+	Query: "nmnh" ; Times: 2
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "north american porcupine" ; Times: 5
+	Query: "type:specimen stateprovince:"Georgia" genus:Desmognathus year >= 1959 year <= 1961" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Conopsis nasus" ; Times: 8
+	Query: "Aspidoscelis sexlineata" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 3
+	Query: "gecko" ; Times: 1
+	Query: "Dipsas articulata" ; Times: 1
+	Query: "Lycodon" ; Times: 2
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 2
+	Query: "Plestiodon longirostris" ; Times: 1
+	Query: "cemophora" ; Times: 1
+	Query: "anfibios" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "aneides hardii year >= 1997 year <= 2014" ; Times: 1
+	Query: "eumeces yolo county" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "type:specimen country:"morocco" class:amphibia mappable:1" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 6
+	Query: "type:specimen country:"mauritania" class:amphibia mappable:1" ; Times: 1
+	Query: "Arizona elegans Texas" ; Times: 1
+	Query: "plethodon idahoensis" ; Times: 6
+	Query: "country:"Panama" genus:Mastigodryas" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "lineri" ; Times: 1
+	Query: "leptodeira septentrionalis" ; Times: 3
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "ghost" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 2
+	Query: "tucuman" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "ambystoma rivulare" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "sceloporus grammicus distance(location,geopoint(19.559790136497398,-99.25048828125))<385770" ; Times: 2
+	Query: "Spea hammondii county:"San Diego" stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "Pelobates" ; Times: 1
+	Query: "tijuana" ; Times: 1
+	Query: "genus:ninia tissue:1" ; Times: 2
+	Query: "Dendropsophus type:specimen (Tissue) mappable:1 tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 166 download events in this period)
+Total number of records downloaded: 13361 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 13080
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Namibia ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 2
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-18 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-22 ; Times: 1
+	Date: 2014-10-23 ; Times: 4
+	Date: 2014-10-24 ; Times: 3
+	Date: 2014-10-25 ; Times: 3
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 3
+	Date: 2014-10-29 ; Times: 2
+	Date: 2014-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Agama planiceps" ; Times: 1
+	Query: "type:specimen country:"cameroon" class:amphibia mappable:1" ; Times: 2
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 4
+	Query: "eleutherodactylus hobartsmithi" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "dendropsophus labialis" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "type:specimen country:"kenya" class:amphibia mappable:1" ; Times: 1
+	Query: "malacochersus tornieri" ; Times: 1
+	Query: "stateprovince:"Texas" class:Amphibia year >= 1888 year <= 2014" ; Times: 1
+	Query: "institutioncode:MVZ hastypestatus:1" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "type:specimen country:"south africa" class:amphibia mappable:1" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Leptopelis calcaratus" ; Times: 1
+	Query: "La Grulla" ; Times: 1
+	Query: "type:specimen country:"uganda" class:amphibia mappable:1" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 2
+	Query: "rana muscosa" ; Times: 1
+	Query: "type:specimen country:"egypt" class:amphibia mappable:1" ; Times: 1
+	Query: "type:specimen country:"sao tome" class:amphibia mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3370
+Total number of records retrieved from searches: 78194
+Number of download events that retrieved data from the resource: 445
+Total number of records downloaded: 329949
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3370
+Total number of records retrieved from searches: 78194
+Number of download events that retrieved data from the resource: 553
+Total number of records downloaded: 488957
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
