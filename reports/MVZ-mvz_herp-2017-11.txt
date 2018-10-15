@@ -1,0 +1,381 @@
+Report for Institution Code MVZ, Resource mvz_herp
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 410
+Number of records retrieved in searches: 8443
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 10
+	Country: Poland ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Greece ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 304
+	Country: Russia ; Times: 11
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 58
+	Date: 2017-11-29 ; Times: 159
+	Date: 2017-11-26 ; Times: 25
+	Date: 2017-11-27 ; Times: 61
+	Date: 2017-11-24 ; Times: 10
+	Date: 2017-11-25 ; Times: 24
+	Date: 2017-11-30 ; Times: 73
+
+List of queries that retrieved data from the resource: 
+	Query: "KInosternon sonoriense" ; Times: 2
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 2
+	Query: "sceloporus arenicolus 2014" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 1
+	Query: "sceloporus arenicolus 2012" ; Times: 3
+	Query: "genus:Crotalus catalognumber:1142" ; Times: 2
+	Query: "heloderma" ; Times: 1
+	Query: "Chamaeleolis porcus mappable:1" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "MVZ 105662" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "crocodylus skeleton niloticus" ; Times: 1
+	Query: "ambystoma opacum jersey" ; Times: 2
+	Query: "MVZ 203919" ; Times: 1
+	Query: "chelydra serpentina" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "Bombina orientalis" ; Times: 1
+	Query: "skeleton Gopherus agassizii" ; Times: 7
+	Query: "Kyrgyzstan Amphibia" ; Times: 1
+	Query: "Afghanistan Amphibia" ; Times: 1
+	Query: "genus:Crotalus catalognumber:11427" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20438" ; Times: 2
+	Query: "pseudotriton montanus" ; Times: 4
+	Query: "63090" ; Times: 2
+	Query: "viperinae" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "anolis reconditus" ; Times: 2
+	Query: "anolis maynardi mappable:1" ; Times: 1
+	Query: "georgia southern university" ; Times: 3
+	Query: "0.5 mi NE Rte. 155 on Colley Rd" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "Crocodylus skeleton niloticus" ; Times: 1
+	Query: "specificepithet:larselli genus:Plethodon" ; Times: 1
+	Query: "MVZ 207215" ; Times: 2
+	Query: "Polypedates otilophus" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:Wassersug year &gt;= 1970 year &lt;= 1970" ; Times: 1
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "Plethodon dorsalis Kentucky" ; Times: 1
+	Query: "(marmorata sweet)" ; Times: 1
+	Query: "genus:Adelphicos stateprovince:&#34;Veracruz&#34;" ; Times: 6
+	Query: "genus:Crotalus recordnumber:72" ; Times: 1
+	Query: "Speleomantes" ; Times: 1
+	Query: "genus:Crotalus catalognumber:406" ; Times: 2
+	Query: "bezyi" ; Times: 1
+	Query: "California tiger salamander" ; Times: 1
+	Query: "sulcata" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis" ; Times: 1
+	Query: "genus:Cruziohyla specificepithet:calcarifer" ; Times: 2
+	Query: "142160" ; Times: 1
+	Query: "specificepithet:Attenuatus genus:Batrachoseps county:&#34;el Dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Lacerta year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "cryptobranchus french creek" ; Times: 1
+	Query: "Cnemidophorus sonorae" ; Times: 2
+	Query: "e. harrington" ; Times: 1
+	Query: "Aplastodiscus albofrenatus mappable:1" ; Times: 1
+	Query: "plestiodon fasciatus" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cnemidophorus sonorae United States Arizona Pima County" ; Times: 3
+	Query: "genus:Coronella year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:eryx year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1910 year &lt;= 1920 institutioncode:MVZ" ; Times: 2
+	Query: "108105" ; Times: 3
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "pituophis stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Bufo danatensis" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "anolis bartschi" ; Times: 1
+	Query: "masticophis schotti mexico" ; Times: 1
+	Query: "micrurus tener" ; Times: 2
+	Query: "Phrynosoma modestum" ; Times: 1
+	Query: "Eunectes" ; Times: 2
+	Query: "genus:Rhinocheilus county:&#34;Sutter&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Proceratophrys boiei mappable:1" ; Times: 2
+	Query: "paramesotriton" ; Times: 2
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "Necturus maculosus Kentucky" ; Times: 2
+	Query: "heterodon platirhinos" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "California giant salamander" ; Times: 1
+	Query: "genus:Scinax specificepithet:hayii" ; Times: 4
+	Query: "MVZ 187566" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "hemidactylus frenatus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:aristelliger hastissue:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "genus:plethodon county:&#34;pender&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Meristogenys" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:MVZ jacksonii" ; Times: 1
+	Query: "specificepithet:quadrivirgatum genus:Adelphicos stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:580" ; Times: 3
+	Query: "pseudis" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Phyllodactylus johnwrighti" ; Times: 1
+	Query: "Cnemidophorus sonorae Pima County Arizona" ; Times: 1
+	Query: "kinosternon guatemala" ; Times: 1
+	Query: "Pseudotriton jersey" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 2
+	Query: "Hemisus marmoratus" ; Times: 1
+	Query: "specificepithet:godmani genus:Tlalocohyla" ; Times: 1
+	Query: "genus:Crotalus catalognumber:19268" ; Times: 2
+	Query: "specificepithet:Diabolicus genus:Batrachoseps county:&#34;el Dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "zombie" ; Times: 1
+	Query: "genus:Crotalus catalognumber:32106" ; Times: 3
+	Query: "witch" ; Times: 2
+	Query: "genus:Crotalus recordnumber:5" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "genus:Crotalus catalognumber:25363" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20668" ; Times: 2
+	Query: "Corral Hollow Pass" ; Times: 1
+	Query: "MVZ 187733" ; Times: 1
+	Query: "dinodon flavozonatum" ; Times: 1
+	Query: "Bokermannohyla circumdata mappable:1" ; Times: 1
+	Query: "anolis quercorum" ; Times: 3
+	Query: "genus:Crotalus recordnumber:278" ; Times: 2
+	Query: "elgaria paucicarinata" ; Times: 1
+	Query: "specificepithet:Diabolicus genus:Batrachoseps stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 4
+	Query: "california red-legged frog" ; Times: 17
+	Query: "genus:Crotalus catalognumber:6702" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "genus:Dinodon flavozonatum hastissue:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:6706" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 3
+	Query: "genus:Crotalus catalognumber:6704" ; Times: 2
+	Query: "genus:heterodon county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:bistincta genus:Plectrohyla stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "chiropterotriton magnipes" ; Times: 1
+	Query: "genus:Crotalus catalognumber:7461" ; Times: 2
+	Query: "genus:Crotalus catalognumber:7460" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+	Query: "farancia stateprovince:&#34;Florida&#34; mappable:1 distance(location,geopoint(26.31803652294908,-80.70693969726562))&lt;100000" ; Times: 1
+	Query: "specificepithet:johnwrighti genus:Phyllodactylus" ; Times: 1
+	Query: "genus:Dinodon hastissue:1" ; Times: 2
+	Query: "genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "pseudoeurycea nigromaculata" ; Times: 1
+	Query: "genus:heterodon county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "(marmorata) year &gt;= 1992 month &gt;= 8" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Cnemidophorus sonorae Pima" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:MVZ" ; Times: 4
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Otophryne pyburni" ; Times: 1
+	Query: "genus:Crotalus catalognumber:56923" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "Dinodon" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Chiropterotriton magnipes institutioncode:MVZ" ; Times: 1
+	Query: "ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "10502" ; Times: 1
+	Query: "bothriechis" ; Times: 2
+	Query: "testudines baja california" ; Times: 1
+	Query: "vntype:specimen genus:Lampropeltis year &gt;= 1970 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 2
+	Query: "MVZ 149784" ; Times: 1
+	Query: "eagle creek county:&#34;Trinity&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:20416" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20417" ; Times: 2
+	Query: "specificepithet:boylii genus:rana county:&#34;mendocino&#34;" ; Times: 2
+	Query: "Hemitheconyx" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 3
+	Query: "genus:Crotalus catalognumber:31885" ; Times: 2
+	Query: "genus:Crotalus catalognumber:28571" ; Times: 2
+	Query: "ingerophrynus claviger" ; Times: 1
+	Query: "genus:Crotalus catalognumber:20418" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 1
+	Query: "Adelphicos quadrivirgatum" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 2
+	Query: "196376" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys year &gt;= 1967 year &lt;= 2017" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 1
+	Query: "MVZ 189112" ; Times: 1
+	Query: "genus:Crotalus catalognumber:3718" ; Times: 2
+	Query: "class:Amphibia country:&#34;Russia&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:boylii genus:rana recordedby:Wassersug" ; Times: 1
+	Query: "Shinisaurus" ; Times: 2
+	Query: "turtles" ; Times: 1
+	Query: "Uzbekistan Amphibia" ; Times: 1
+	Query: "class:reptilia locality:calcutta" ; Times: 1
+	Query: "california red-legged frog madera" ; Times: 1
+	Query: "Uzbekistan" ; Times: 1
+	Query: "Pakistan Amphibia" ; Times: 1
+	Query: "masticophis taeniatus mexico" ; Times: 2
+	Query: "Dendropsophus minutus mappable:1" ; Times: 2
+	Query: "genus:Crotalus catalognumber:20419" ; Times: 2
+	Query: "specificepithet:brimleyorum genus:Desmognathus stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "Thoropa petropolitana mappable:1" ; Times: 1
+	Query: "specificepithet:websteri genus:Plethodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "field museum egg collection" ; Times: 1
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "pseudobranchus striatus" ; Times: 5
+	Query: "genus:Crotalus catalognumber:33850" ; Times: 2
+	Query: "genus:Deirochelys reticularia county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "India Amphibia" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 1
+	Query: "Siphonops annulatus mappable:1" ; Times: 2
+	Query: "skeleton Malaclemys terrapin" ; Times: 1
+	Query: "Corral Hollow genus:Rhinocheilus class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Corral Hollow stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma lermaense" ; Times: 1
+	Query: "family:Chamaeleonidae jacksonii tanzania" ; Times: 1
+	Query: "Iran Amphibia" ; Times: 1
+	Query: "genus:Crotalus catalognumber:6703" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "MVZ 149803" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "genus:Crotalus catalognumber:6701" ; Times: 2
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 2
+	Query: "13083" ; Times: 1
+	Query: "genus:Crotalus catalognumber:7458" ; Times: 2
+	Query: "genus:Crotalus catalognumber:7459" ; Times: 2
+	Query: "genus:Batrachoseps county:&#34;Amador&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "recordedby:Wassersug" ; Times: 1
+	Query: "genus:Elaphe year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "recordedby:Wassersug year &gt;= 1970 year &lt;= 1970" ; Times: 1
+	Query: "Corral Hollow class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "prosymna hastissue:1" ; Times: 2
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Rhinoclemmys rubida oaxaca" ; Times: 1
+	Query: "marmorata samuel" ; Times: 1
+	Query: "genus:Coronella hastissue:1" ; Times: 1
+	Query: "locality:calcutta" ; Times: 1
+	Query: "genus:Crotalus catalognumber:6705" ; Times: 2
+	Query: "Lycodon" ; Times: 1
+	Query: "genus:heterodon county:&#34;onslow&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "geophis semidoliatus" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys hastissue:1" ; Times: 2
+	Query: "genus:Crotalus recordnumber:D" ; Times: 3
+	Query: "genus:Crotalus catalognumber:57606" ; Times: 3
+	Query: "genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Corral Hollow genus:Masticophis class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 5
+	Query: "glyptemys stateprovince:&#34;connecticut&#34;" ; Times: 1
+	Query: "SAMA" ; Times: 1
+	Query: "Crocodylus porosus" ; Times: 1
+	Query: "county:&#34;Trinity&#34; year &gt;= 1959 month &gt;= 10" ; Times: 1
+	Query: "Chiasmocleis shudikarensis" ; Times: 1
+	Query: "Kazakhstan Amphibia" ; Times: 1
+	Query: "Lanthanotus" ; Times: 1
+	Query: "farancia stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "genus:Crotalus catalognumber:20420" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1101 download events in this period)
+Total number of records downloaded: 19166
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Russia ; Times: 9
+	Country: Colombia ; Times: 19
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 5
+	Date: 2017-11-26 ; Times: 8
+	Date: 2017-11-27 ; Times: 14
+	Date: 2017-11-25 ; Times: 24
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "specificepithet:cybotes genus:anolis mappable:1" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "specificepithet:griseigularis genus:Leptodactylus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:fimbrimembra genus:Ecnomiohyla mappable:1 continent:america" ; Times: 1
+	Query: "Otophryne pyburni" ; Times: 1
+	Query: "Pakistan Amphibia" ; Times: 1
+	Query: "specificepithet:bifurcus genus:Dendropsophus mappable:1 continent:america" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "genus:aristelliger hastissue:1" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "specificepithet:latinasus genus:Colostethus mappable:1 continent:america" ; Times: 1
+	Query: "Bufo danatensis" ; Times: 1
+	Query: "Iran Amphibia" ; Times: 1
+	Query: "specificepithet:goinorum genus:Scarthyla mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:barbouri genus:Chamaelinorops mappable:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:distichus genus:anolis mappable:1" ; Times: 1
+	Query: "Chamaeleolis porcus mappable:1" ; Times: 1
+	Query: "anolis reconditus" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Afghanistan Amphibia" ; Times: 1
+	Query: "specificepithet:sibleszi genus:Hypsiboas mappable:1 continent:america" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:peruensis genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "class:reptilia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis country:&#34;cuba&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "Kyrgyzstan Amphibia" ; Times: 1
+	Query: "specificepithet:vittatus genus:Phyllobates mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:pyburni genus:Otophryne mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:shudikarensis genus:Chiasmocleis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:fastidiosus genus:Incilius mappable:1 continent:america" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "specificepithet:armatus genus:Hyloscirtus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:barberi genus:Hypopachus mappable:1 continent:america" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1910 year &lt;= 1920 institutioncode:MVZ" ; Times: 1
+	Query: "anolis quercorum" ; Times: 1
+	Query: "specificepithet:lancasteri genus:Isthmohyla mappable:1 continent:america" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 3
+	Query: "california red-legged frog madera" ; Times: 1
+	Query: "Uzbekistan Amphibia" ; Times: 1
+	Query: "Chiasmocleis shudikarensis" ; Times: 1
+	Query: "Kazakhstan Amphibia" ; Times: 1
+	Query: "specificepithet:campbelli genus:Incilius mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:fuscifacies genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "Anolis trinitatis mappable:1" ; Times: 1
+	Query: "specificepithet:brimleyorum genus:Desmognathus stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
